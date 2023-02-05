@@ -1,0 +1,32 @@
+body{
+    -youbkit-touch-callout: none; /*iOS Safari*/
+    -youbkit-user-select: none;   /* Chrome 6.0+, Safari 3.1+, Edge y Opera 15+ */
+    -moz-user-select: none;    /*Firefox*/
+    -ms-user-select: none;        /* IE 10+ y Edge */
+    user-select: none;
+}
+
+.py-5
+{
+    background-image:url('/img/imgs/a.jpg');
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+    margin:0;
+    padding:0;
+}
+
+#h4-text
+{
+    font-family: 'DynaPuff', cursive; color:blue;
+}
+
+#href-iniciarSesion
+{
+    text-decoration: none; border-color: solid blue;
+}
+
+#text-IniciarSesion
+{
+    font-family: 'DynaPuff', cursive;
+}

@@ -1,0 +1,33 @@
+.fm-video {
+	width: 100%;
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,.5);
+}
+
+.fm-video .vjs-control-bar {
+	background: #F4F4F4;
+	color: #1d87d8/*#2d5f85*/;
+	border-radius: 5px;
+}
+
+.fm-video .vjs-play-progress,
+.fm-video .vjs-volume-level {
+	background: #1d87d8;
+}
+
+.fm-video .vjs-slider {
+	background: #2d5f85;
+	height: 5px;
+}
+
+.video-js:hover .vjs-big-play-button {
+	background: #00000033;
+}
+
+.fm-video .vjs-big-play-button {
+	background: #00000033;
+	border: none;
+}
+
+.fm-video .vjs-big-play-button:hover {
+	background: #00000080;
+}
